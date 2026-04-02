@@ -10,6 +10,7 @@ Food delivery complaints often look noisy when viewed one by one, but repeated p
 
 To analyse complaint reviews, identify the most common failure themes, detect whether spikes point to broader operational breakdowns, and translate the findings into a BRD-style output that a business or product team could act on.
 
+![Output screenshot](img/trend.png)
 ***
 
 ## Dataset and Scope
@@ -28,6 +29,8 @@ The analysis focused on customer complaints, refund experience, support response
 
 ### 1. Complaint theme classification
 Used zero-shot NLP to group complaint reviews into 10 major themes. This made it possible to move from individual complaints to category-level insight.
+
+![Output screenshot](img/model.png)
 
 ### 2. Pattern detection
 Checked where complaint volume concentrated over time and across issue types. The data showed that some spikes were not isolated incidents but signals of broader operational failure.
