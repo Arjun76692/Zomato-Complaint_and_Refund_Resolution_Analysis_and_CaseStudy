@@ -10,7 +10,7 @@ Food delivery complaints often look noisy when viewed one by one, but repeated p
 
 To analyse complaint reviews, identify the most common failure themes, detect whether spikes point to broader operational breakdowns, and translate the findings into a BRD-style output that a business or product team could act on.
 
-![Output screenshot](img/trend.png)
+![Output screenshot](img/Trend.png)
 ***
 
 ## Dataset and Scope
